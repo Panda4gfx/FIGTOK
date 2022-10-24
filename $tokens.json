@@ -622,7 +622,27 @@
         "lgiht": "enabled",
         "darjk": "disabled"
       },
-      "$figmaStyleReferences": {}
+      "$figmaStyleReferences": {
+        "tokens": "S:7138479d0d0a08b9160da5b7d1f87440ac00b7f4,",
+        "Primay Colors.TND Secondary-60": "S:0f95587649fa1987753f83caa6cd78e7315395c0,",
+        "Primay Colors.Text Grey": "S:d2c067699bc54d2e837335819c40b514b1a35b1a,",
+        "Primay Colors.Text Dark": "S:1b461f3cd2be03624cde57fb4d122b5a7f3b915b,",
+        "Primay Colors.TND Blue Primary": "S:552a532af2ff63e7cac89a64077c544053b054cc,",
+        "Primay Colors.Tertiary-80": "S:13e5630253726bd7ea3344da05b75612a65eb49a,",
+        "azulo": "S:144a1773a8b2a2ad6f8fc7fac07eb2b66790c873,",
+        "Text Para.Para text 14px": "S:7c1aca9eeaca42499b4d7eeb956d729e2d1c93cd,",
+        "Text Para.Text Para": "S:a3a8246cb3d9cf6007b84710336df36a3f6855e5,",
+        "Text Para.Subtitle 18px": "S:1b37aca78465bca2b1010ad8a69be31a3a44a5b0,",
+        "Text Para.Subtitle 2 16px": "S:acc79a58b883a1a862061efe0ed46df3d84e2053,",
+        "Buttons.Medium Button 14": "S:2376fa35a65e11575b5ba7f360af1227906731ae,",
+        "Buttons.Large Btn 16px": "S:e064c167dbddd63546a7dd9dadcb06a39f4e1fb5,",
+        "Headings.Text Heading": "S:c13abec8cc20ee71faaf129fa07319bce737ce77,",
+        "Headings.Sub-Heading": "S:64539c1dd69bf30ba13a9333cdb080f05d8e3c02,",
+        "Headings.H1 Heading 18px": "S:3f2280ca99939012722ea9359a4e3219b92b9c73,",
+        "Headings.H2 Heading 16px SB": "S:c58e95cc4cae45d0455808149ffa4ba718eccffb,",
+        "Headings.H3 Heading 14px": "S:0b1b3502210ba72373c2d67bb896f7f971c87d9c,",
+        "Headings.H4 Heading 4 12px": "S:24575cd7c2d611d1f327431016939c689f892808,"
+      }
     },
     {
       "id": "4a44f0e82de19803937033b9dadeb6ffabffebac",
