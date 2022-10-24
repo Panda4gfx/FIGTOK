@@ -614,26 +614,7 @@
         "lgiht": "enabled",
         "darjk": "disabled"
       },
-      "$figmaStyleReferences": {
-        "Text Para.Para text 14px": "S:c515bbf228e28b4efdb8490c80de7f977b3434c8,",
-        "Text Para.Text Para": "S:6b92c853ec871b463706dd64b14db96b280ee228,",
-        "Text Para.Subtitle 18px": "S:95ccf03419baffe9f5a08fa2744f7980c80334ab,",
-        "Text Para.Subtitle 2 16px": "S:8ed18805e0f3c23bf8272969f3878a485f6a22a7,",
-        "Buttons.Medium Button 14": "S:f91de20ff39a333d8ecc6f70530cdd74fe01a7e0,",
-        "Buttons.Large Btn 16px": "S:e73cd3d36c53b2a390f3d96a624ad60975c06742,",
-        "Headings.Text Heading": "S:89e6648e1dc6470ce1fa1c670183b26678b46211,",
-        "Headings.Sub-Heading": "S:7765a8d64ed44b53cad3d62b9d342e59e5e53955,",
-        "Headings.H1 Heading 18px": "S:c4634a5814acad4828e1963748c5196a273219a6,",
-        "Headings.H2 Heading 16px SB": "S:6b845d2171ad0f521bb7e65f77ba1c800a3a06d6,",
-        "Headings.H3 Heading 14px": "S:6e1983ed653f9f9b1c03a19cbcd55164d932e669,",
-        "Headings.H4 Heading 4 12px": "S:9f3a09174d61e9ec03bc28bf7c9fc5ba442e4bad,",
-        "tokens": "S:e22c46e8bdd30614b1dddf88af13f3b1799feb2a,",
-        "Primay Colors.TND Secondary-60": "S:c210753b46b2c77d8dc841a34f72ebdaeb6ab227,",
-        "Primay Colors.Text Grey": "S:01e619e739a5b7fabd567f5d369f9f2ed674a71d,",
-        "Primay Colors.Text Dark": "S:6a04bc2cefdd50739c70af261a92cb5f389a9cb4,",
-        "Primay Colors.TND Blue Primary": "S:925874623b44e384efcb53ae729807674b818bc9,",
-        "Primay Colors.Tertiary-80": "S:a5ca46676e79e8fe047d431536aad8a5e0419bd2,"
-      }
+      "$figmaStyleReferences": {}
     },
     {
       "id": "4a44f0e82de19803937033b9dadeb6ffabffebac",
