@@ -641,10 +641,6 @@
         "value": "#7d6a6a",
         "type": "color"
       },
-      "Text Dark": {
-        "value": "#241b1b",
-        "type": "color"
-      },
       "TND Blue Primary": {
         "value": "#ed2828",
         "type": "color"
@@ -1260,7 +1256,7 @@
       "id": "3d73ca7addef940754b80ae1e1ffd871743b3652",
       "name": "light",
       "selectedTokenSets": {
-        "global": "source",
+        "global": "enabled",
         "dark": "disabled",
         "asd": "disabled",
         "asd_Copy": "disabled"
@@ -1271,10 +1267,39 @@
       "id": "9a1806ea55f3a0ed0ec6f374ed74cdaa07b382fe",
       "name": "dark",
       "selectedTokenSets": {
-        "global": "enabled",
-        "dark": "disabled",
+        "global": "source",
+        "dark": "enabled",
         "asd": "disabled",
         "asd_Copy": "disabled"
+      },
+      "$figmaStyleReferences": {
+        "tokens": "S:e22c46e8bdd30614b1dddf88af13f3b1799feb2a,",
+        "Primay Colors.TND Secondary-60": "S:c210753b46b2c77d8dc841a34f72ebdaeb6ab227,",
+        "Primay Colors.Text Grey": "S:01e619e739a5b7fabd567f5d369f9f2ed674a71d,",
+        "Primay Colors.Text Dark": "S:6a04bc2cefdd50739c70af261a92cb5f389a9cb4,",
+        "Primay Colors.TND Blue Primary": "S:925874623b44e384efcb53ae729807674b818bc9,",
+        "Primay Colors.Tertiary-80": "S:a5ca46676e79e8fe047d431536aad8a5e0419bd2,"
+      }
+    },
+    {
+      "id": "a873ef233374e4d3564c99a6b369d588c8cd6f4d",
+      "name": "teste",
+      "selectedTokenSets": {
+        "global": "source",
+        "dark": "disabled",
+        "asd": "enabled",
+        "asd_Copy": "disabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "758018ffa95b33742530c9ecb47286ed9f59660d",
+      "name": "asdsdzxczxc",
+      "selectedTokenSets": {
+        "global": "source",
+        "dark": "disabled",
+        "asd": "disabled",
+        "asd_Copy": "enabled"
       },
       "$figmaStyleReferences": {}
     }
