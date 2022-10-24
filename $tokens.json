@@ -17,10 +17,6 @@
         "value": "#1b1f23",
         "type": "color"
       },
-      "TND Blue Primary": {
-        "value": "#2960ec",
-        "type": "color"
-      },
       "Tertiary-80": {
         "value": "#18b368",
         "type": "color"
@@ -199,6 +195,10 @@
         },
         "type": "typography"
       }
+    },
+    "azulo": {
+      "value": "#2960EC",
+      "type": "color"
     }
   },
   "lgiht": {
