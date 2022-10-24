@@ -199,6 +199,10 @@
     "azulo": {
       "value": "#2960EC",
       "type": "color"
+    },
+    "azulo-copy": {
+      "value": "#2960EC",
+      "type": "color"
     }
   },
   "lgiht": {
@@ -401,6 +405,10 @@
         },
         "type": "typography"
       }
+    },
+    "azulo": {
+      "value": "#bb2424",
+      "type": "color"
     }
   },
   "darjk": {
