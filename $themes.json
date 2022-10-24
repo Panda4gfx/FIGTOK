@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3d73ca7addef940754b80ae1e1ffd871743b3652",
+    "name": "light",
+    "selectedTokenSets": {
+      "global": "source",
+      "dark": "disabled",
+      "asd": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9a1806ea55f3a0ed0ec6f374ed74cdaa07b382fe",
+    "name": "dark",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "dark": "disabled",
+      "asd": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
