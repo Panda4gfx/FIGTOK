@@ -653,6 +653,36 @@
         "darjk": "enabled"
       },
       "$figmaStyleReferences": {}
+    },
+    {
+      "id": "dfbfd587a016c4e445b8b4ba04d89a8834f7c336",
+      "name": "Oiie",
+      "selectedTokenSets": {
+        "global": "enabled",
+        "lgiht": "disabled",
+        "darjk": "disabled"
+      },
+      "$figmaStyleReferences": {
+        "Text Para.Para text 14px": "S:f3d09f2e607926c08268472c691517b81852c162,",
+        "Text Para.Text Para": "S:cf0139ffcdbb67f3e236047d6699d683d4421cbb,",
+        "Text Para.Subtitle 18px": "S:53b172effcbe03d7e75860c331e632f7ee54c23e,",
+        "Text Para.Subtitle 2 16px": "S:92372d315e326d78f4972f9e4a3b0f6dada7854e,",
+        "Buttons.Medium Button 14": "S:18b71696029f1ea35ae4f4acb68f5ea4513ca5c6,",
+        "Buttons.Large Btn 16px": "S:c44f31d48df035078080785fb578782a4035868e,",
+        "Headings.Text Heading": "S:f6a5324fbe31d13c0c675c6890e2e642896af8a0,",
+        "Headings.Sub-Heading": "S:bd17c2d494ee0bce8c40e59a17de093af8664f21,",
+        "Headings.H1 Heading 18px": "S:bed6ee7b5349df59d82b667d337485dc2af6a670,",
+        "Headings.H2 Heading 16px SB": "S:f241ad9f287fc46a3056aa26a01b5a94f0ce8ac7,",
+        "Headings.H3 Heading 14px": "S:48a16e032f309be091f023c86f543c18388a21d2,",
+        "Headings.H4 Heading 4 12px": "S:724613ff4b110babd8e041164bb9ac8d1654eaa5,",
+        "tokens": "S:b3afebf6bf496e18d9e3dc3647001b08946f450a,",
+        "Primay Colors.TND Secondary-60": "S:fd55e0f0e99ce0ef7c4e28fc508095dbc58294ab,",
+        "Primay Colors.Text Grey": "S:c60341af6a6ac1a2c17b174fa033528da86a3842,",
+        "Primay Colors.Text Dark": "S:822d6cba94fa8919d1345c0bea6b45ac8453f205,",
+        "Primay Colors.Tertiary-80": "S:fbf904ccf0bccf69dfb8f05f7ff24c148b80d3bf,",
+        "azulo": "S:d657a737b73f4ba3372ed02145a55a911f197887,",
+        "azulo-copy": "S:e445227d25b241f9ca822609283da642e600fc37,"
+      }
     }
   ],
   "$metadata": {
